@@ -6,17 +6,11 @@ description: DISCLAIMER
 
 ## Legal Disclaimer
 
-
-
 ### Educational and Red Teaming Purpose Only
-
-
 
 This repository and all files within it are provided **strictly for educational , red teaming and authorized security research purposes only**.
 
 ### Authorized Use Only
-
-
 
 By downloading, cloning, or using any part of this repository, you agree that:
 
@@ -35,13 +29,9 @@ By downloading, cloning, or using any part of this repository, you agree that:
 
 ### No Warranty
 
-
-
 This software is provided **"as is"**, without warranty of any kind, express or implied.
 
 ### Limitation of Liability
-
-
 
 The author(s) and contributors shall **not be held liable** for any damages arising from the use or misuse of this software — including unauthorized access, data loss, financial loss, or legal penalties.
 
@@ -49,10 +39,8 @@ The author(s) and contributors shall **not be held liable** for any damages aris
 
 ### Responsible Disclosure
 
-
-
 If you discover additional vulnerabilities, please follow responsible disclosure practices — report to the vendor before public disclosure and allow reasonable time for a patch.
 
 ***
 
-_If you do not agree to these terms, do not use this software._
+_If you do not agree to these terms, do not use this software and these educational materials._
