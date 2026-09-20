@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [DISCLAIMER](README.md)
-* [hi](<README (1).md>)
+* [hi, I am hackpatato](getting-started/hi-i-am-hackpatato.md)
 * [My Projects](getting-started/my-projects.md)
 
 ## DOCS
