@@ -5,6 +5,6 @@
 * [hi](README.md)
 * [My Projects](getting-started/my-projects.md)
 
-## Guides
+## DOCS
 
-* [Guides](guides/guides.md)
+* [How am I learning maldevelopment and coding?](docs/how-am-i-learning-maldevelopment-and-coding.md)
