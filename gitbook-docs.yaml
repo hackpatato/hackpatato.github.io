@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: hackpatato Docs
+  structure:
+    - type: space
+      key: space-1
+      title: Product Docs
+      path: product-docs
+      default: true
+      content:
+        directory: ./product-docs
