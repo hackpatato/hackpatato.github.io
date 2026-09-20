@@ -2,9 +2,9 @@
 
 ## Getting Started
 
-* [hi](README.md)
+* [DISCLAIMER](README.md)
+* [hi](<README (1).md>)
 * [My Projects](getting-started/my-projects.md)
-* [DISCLAIMER](getting-started/disclaimer.md)
 
 ## DOCS
 
