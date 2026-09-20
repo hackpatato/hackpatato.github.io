@@ -4,6 +4,7 @@
 
 * [hi](README.md)
 * [My Projects](getting-started/my-projects.md)
+* [DISCLAIMER](getting-started/disclaimer.md)
 
 ## DOCS
 
